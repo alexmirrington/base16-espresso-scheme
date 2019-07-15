@@ -10,13 +10,13 @@ base05: "cccccc" # ANSI White (7)                      # ANSI White (7)         
 base06: "e0e0e0" # 256 Colour (21)                     # ANSI Bright Magenta (13)# Unused
 base07: "ffffff" # ANSI Bright White (15)              # ANSI Bright White (15)  #
 base08: "d25252" # ANSI Red, Bright Red (1,9)          # ANSI Red (1)            #
-base09: "ffa500" # 256 Colour (16)                     # ANSI Bright Red (9)     # Bool, const, float, number
+base09: "f9a959" # 256 Colour (16)                     # ANSI Bright Red (9)     # Bool, const, float, number
 base0A: "ffc66d" # ANSI Yellow, Bright Yellow (3,11)   # ANSI Yellow (3)         #
 base0B: "a5c261" # ANSI Green, Bright Green (2,10)     # ANSI Green (2)          #
 base0C: "bed6ff" # ANSI Cyan, Bright Cyan (6,14)       # ANSI Cyan (6)           #
 base0D: "6c99bb" # ANSI Blue, Bright Blue (4,12)       # ANSI Blue (4)           #
 base0E: "d197d9" # ANSI Magenta, Bright Magenta (5,13) # ANSI Magenta (5)        #
-base0F: "00ffff" # 256 Colour (17)                     # ANSI Bright Cyan (14)   # Delimeter, special char
+base0F: "f97394" # 256 Colour (17)                     # ANSI Bright Cyan (14)   # Delimeter, special char
 
 # base00: "353535" # ANSI Black (0)                      # ANSI Black (0)          #
 # base01: "3d3d3d" # 256 Colour (18)                     # ANSI Bright Green (10)  # LineNr BG
