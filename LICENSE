@@ -21,4 +21,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 This license covers the base16-espresso-scheme repository.
-Contents were adapted from the iTerm2 Espresso theme, located here: https://github.com/mbadolato/iTerm2-Color-Schemes, ported from the original MacOS Terminal.app theme.
+
+The copyright/license of individual themes within the repository belong to the author of that theme, as follows:
+
+The contents of espresso.yaml were adapted from the iTerm2 Espresso theme, located here: https://github.com/mbadolato/iTerm2-Color-Schemes, which was in turn originally ported from the original MacOS Terminal.app theme. The greyscale colours in the scheme were pulled from Chris Kempson's Tomorrow themes, located here: https://github.com/chriskempson/base16-tomorrow-scheme.
+
+The colours in decaf.yaml were created by Alex Mirrington, inspired by espresso.yaml, and the greyscale colours were pulled from Chris Kempson's Tomorrow theme.
